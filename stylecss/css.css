@@ -295,3 +295,69 @@ input {
   padding: 2em;
   margin-bottom: 0 !important;
 }
+.camp-cad{
+  margin-top: 0.5em;
+  font-family: sans-serif;
+  text-align: center;
+}
+.main-form{
+  margin: 0 auto;
+  
+}
+.first_form{
+  width: 45%;
+  margin: 0 auto;
+  padding: 0;
+  
+  padding: 2em;
+  border-radius: 15px;
+  background-color:#f9f9f9
+
+}
+.first_form input{
+  width: 15em;
+
+}
+.row{
+  display: flex;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.first-colun{
+  display: flex;
+  width: 100%;
+  align-items: center !important;
+  justify-content: center !important;
+  box-sizing: border-box;
+}
+.sub{
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.second-form{
+  width: 45%;
+  margin: 0 auto;
+  padding: 0;
+  border: #000000 solid 1px;
+  padding: 2em;
+  border-radius: 15px;
+  
+}
+.division{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.btn-primary{
+  display: block;
+  margin: 0 auto !important;
+  margin-top: 1em !important;
+  margin-bottom: 3em !important;
+  
+}
+.form-select{
+  width: 15em !important;
+}
