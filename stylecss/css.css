@@ -162,6 +162,7 @@ input {
   width: 18em;
   height: 10em;
 }
+
 .card_1{
   display: flex;
   flex-direction: column;
@@ -360,4 +361,85 @@ input {
 }
 .form-select{
   width: 15em !important;
+}
+.contact-main{
+  height: 35em;
+}
+.contact-main h1{
+  text-align: center;
+  font-family: sans-serif;
+  border-top: 2em;
+  font-weight: bold;
+}
+.contact-main{
+  margin-top: 2em;
+}
+.flex-contact{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8em;
+  gap: 3em;
+}
+.icon-contact{
+  font-size: 3em;
+}
+.cards-c{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.contact-fat-link{
+  color: black !important;
+}
+.forma-contac{
+  font-weight: bold;
+  padding: 0;
+  font-size: 1.3em;
+}
+.contact-fat{
+  padding: 0;
+  margin-top: 0;
+}
+.p-footer{
+  color: white !important;
+}
+.notice-container{
+  height: 85em;
+  display: flex;
+  flex-direction: column;
+}
+.notices-flex{
+  margin-top: 0.2em;
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  justify-content: center;
+  height: 35em;
+  margin-top: 2.9em;
+}
+.p-notice{
+  color: blue!important;
+  font-size: 0.9em;
+  transition: linear 0.4s;
+}
+.p-notice:hover{
+  color: rgb(11, 0, 73) !important;
+  background: white;
+}
+.h1-notice{
+  text-align: center;
+  padding: 0.3em;
+  font-family: sans-serif;
+  display: block;
+}
+.card-body{
+  height: 15em;
+}
+.card-text{
+  height: em;
+}
+.card-title{
+  font-weight: bold;
 }
